@@ -1,0 +1,15 @@
+dataset:
+
+  root: data/raw/ml-20m
+
+  ratings: ratings.csv
+
+  movies: movies.csv
+
+  tags: tags.csv
+
+  links: links.csv
+
+logging:
+
+  level: INFO
